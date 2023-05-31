@@ -1,0 +1,17 @@
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\obj\Debug\net6.0-windows\Anket II.csproj.AssemblyReference.cache
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\obj\Debug\net6.0-windows\Anket_II.Form1.resources
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\obj\Debug\net6.0-windows\Anket II.csproj.GenerateResource.cache
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\obj\Debug\net6.0-windows\Anket II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\obj\Debug\net6.0-windows\Anket II.AssemblyInfoInputs.cache
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\obj\Debug\net6.0-windows\Anket II.AssemblyInfo.cs
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\obj\Debug\net6.0-windows\Anket II.csproj.CoreCompileInputs.cache
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\bin\Debug\net6.0-windows\Anket II.exe
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\bin\Debug\net6.0-windows\Anket II.deps.json
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\bin\Debug\net6.0-windows\Anket II.runtimeconfig.json
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\bin\Debug\net6.0-windows\Anket II.dll
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\bin\Debug\net6.0-windows\Anket II.pdb
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\obj\Debug\net6.0-windows\Anket II.dll
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\obj\Debug\net6.0-windows\refint\Anket II.dll
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\obj\Debug\net6.0-windows\Anket II.pdb
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\obj\Debug\net6.0-windows\Anket II.genruntimeconfig.cache
+C:\Users\Hesen_zc39\Desktop\Anket II\Anket II\obj\Debug\net6.0-windows\ref\Anket II.dll
