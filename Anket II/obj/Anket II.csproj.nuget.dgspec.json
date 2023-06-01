@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hesen_zc39\\Desktop\\Anket II\\Anket II\\Anket II.csproj": {}
+    "D:\\WinForm & WPF\\Anket-II\\Anket II\\Anket II.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hesen_zc39\\Desktop\\Anket II\\Anket II\\Anket II.csproj": {
+    "D:\\WinForm & WPF\\Anket-II\\Anket II\\Anket II.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hesen_zc39\\Desktop\\Anket II\\Anket II\\Anket II.csproj",
+        "projectUniqueName": "D:\\WinForm & WPF\\Anket-II\\Anket II\\Anket II.csproj",
         "projectName": "Anket II",
-        "projectPath": "C:\\Users\\Hesen_zc39\\Desktop\\Anket II\\Anket II\\Anket II.csproj",
-        "packagesPath": "C:\\Users\\Hesen_zc39\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hesen_zc39\\Desktop\\Anket II\\Anket II\\obj\\",
+        "projectPath": "D:\\WinForm & WPF\\Anket-II\\Anket II\\Anket II.csproj",
+        "packagesPath": "C:\\Users\\RustamH\\.nuget\\packages\\",
+        "outputPath": "D:\\WinForm & WPF\\Anket-II\\Anket II\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Hesen_zc39\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\RustamH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
